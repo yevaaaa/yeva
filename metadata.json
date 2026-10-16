@@ -1,0 +1,7 @@
+{
+  "name": "Клуб Китай — Прямой опт с фабрик 1688",
+  "description": "Международная фабричная B2B & Retail платформа прямых поставок из Китая без посредников: каталог 1688, коллективные закупки, образцы, логистика и белая таможня.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
